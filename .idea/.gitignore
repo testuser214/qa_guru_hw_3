@@ -1,0 +1,24 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+build
+hs_err_pid*
+!.idea
+.idea/*
+!/.idea/icon.svg
+out
+vcs.xml
+*.ipr
+*.iws
+*.iml
+.gradle
+.project
+.classpath
+chromedriver.log
+.settings
+integration/ScreenshotTest/canTakeScreenshotOfElement/
+classes
+
+# Ignore all binary files
+modules/*/bin
+statics/bin
